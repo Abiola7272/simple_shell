@@ -125,5 +125,3 @@ void free_backets(char **backets, size_t current_position)
 	}
 	free(backets);
 }
-/**
-
